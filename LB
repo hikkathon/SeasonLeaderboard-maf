@@ -13,6 +13,11 @@
 					"name": "Name 2",
 					"rank": 2,
 					"score": 15082024
+				},
+				{
+					"name": "Name 3",
+					"rank": 4,
+					"score": 5082024
 				}
 			]
 		}
