@@ -20,6 +20,27 @@
 					"score": 5082024
 				}
 			]
+		},
+		{
+			"title": "Title",
+			"time": "25.08.2024 - 25.09.2024",
+			"players": [
+				{
+					"name": "Name 1",
+					"rank": 1,
+					"score": 25082024
+				},
+				{
+					"name": "Name 2",
+					"rank": 2,
+					"score": 15082024
+				},
+				{
+					"name": "Name 3",
+					"rank": 3,
+					"score": 5082024
+				}
+			]
 		}
 	]
 }
