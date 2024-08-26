@@ -1,8 +1,8 @@
 {
 	"leaderboards": [
 		{
-			"eSeasons": "Title 1",
-			"year": "2024",
+			"eSeasons": 0,
+			"year": 2024,
 			"players": [
 				{
 					"name": "Name 1",
@@ -22,8 +22,8 @@
 			]
 		},
 		{
-			"eSeasons": "Title 2",
-			"year": "2023",
+			"eSeasons": 1,
+			"year": 2023,
 			"players": [
 				{
 					"name": "Name 4",
