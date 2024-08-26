@@ -1,44 +1,23 @@
 {
 	"leaderboards": [
 		{
-			"eSeasons": 0,
+			"eSeasons": 1,
 			"year": 2024,
 			"players": [
 				{
-					"name": "Name 1",
+					"name": "-",
 					"rank": 1,
-					"score": 25082024
+					"score": 0
 				},
 				{
-					"name": "Name 2",
+					"name": "-",
 					"rank": 2,
-					"score": 15082024
+					"score": 0
 				},
 				{
-					"name": "Name 3",
+					"name": "-",
 					"rank": 3,
-					"score": 5082024
-				}
-			]
-		},
-		{
-			"eSeasons": 1,
-			"year": 2023,
-			"players": [
-				{
-					"name": "Name 4",
-					"rank": 1,
-					"score": 2502024
-				},
-				{
-					"name": "Name 5",
-					"rank": 2,
-					"score": 1502024
-				},
-				{
-					"name": "Name 6",
-					"rank": 3,
-					"score": 508024
+					"score": 0
 				}
 			]
 		}
