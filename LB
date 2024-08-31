@@ -20,6 +20,27 @@
 					"score": 6568
 				}
 			]
+		},
+		{
+			"eSeasons": 2,
+			"year": 2024,
+			"players": [
+				{
+					"name": "-",
+					"rank": 1,
+					"score": 0
+				},
+				{
+					"name": "-",
+					"rank": 2,
+					"score": 0
+				},
+				{
+					"name": "-",
+					"rank": 3,
+					"score": 0
+				}
+			]
 		}
 	]
 }
